@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">NAT Archives</string>
-    <string name="facebook_app_id">797030147955415</string>
-    <string name="fb_login_protocol_scheme">fb797030147955415</string>
-    <string name="facebook_client_token">6bbe7311a5d3e47a4d20f94b547d0254</string>
+    <string name="facebook_app_id"></string>
+    <string name="fb_login_protocol_scheme"></string>
+    <string name="facebook_client_token"></string>
 </resources>
