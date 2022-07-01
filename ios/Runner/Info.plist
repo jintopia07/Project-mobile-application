@@ -18,7 +18,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>NAT Archives</string>
+	<string></string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -45,11 +45,11 @@
 	<key>CFBundleVersion</key>
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>FacebookAppID</key>
-	<string>797030147955415</string>
+	<string></string>
 	<key>FacebookClientToken</key>
-	<string>6bbe7311a5d3e47a4d20f94b547d0254</string>
+	<string></string>
 	<key>FacebookDisplayName</key>
-	<string>NAT Archives</string>
+	<string></string>
 	<key>FirebaseAppDelegateProxyEnabled</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
