@@ -1,0 +1,492 @@
+{
+    "language": "ไทย",
+    "@language":{
+      "description": "The current Language"
+    },
+    "helloWorld": "สวัสดี",
+    "@helloWorld": {
+      "description": "A programmer greeting"
+    },
+    "hello": "สวัสดี {username}",
+    "@hello": {
+      "description": "A welcome message",
+      "placeholders": {
+         "username": {
+           "type": "String"
+         }
+      }
+    },
+    "homeMenu1": "ข้อมูลการติดต่อ",
+    "@homeMenu1":{
+      "description": "The menu Language"
+    },
+    "homeMenu1detail": "  รายละเอียดข้อมูลการติดต่อหอจดหมายเหตุแห่งชาติส่วนกลางและส่วนภูมิภาคทั้ง 10 แห่ง",
+    "@homeMenu1detail":{
+      "description": "The menu home Language"
+    },
+    "homeMenu2": "เกี่ยวกับหอจดหมายเหตุแห่งชาติ",
+    "@homeMenu2":{
+      "description": "The menu Language"
+    },
+    "homeMenu2detail": "  แนะนำระเบียบ ขั้นตอน กระบวนการ การใช้บริการระบบบริการเอกสารจดหมายเหตุเพื่อประชาชน",
+    "@homeMenu2detail":{
+      "description": "The menu home Language"
+    },
+    "homeMenu3": "บริการขอทำสำเนาเอกสาร",
+    "@homeMenu3":{
+      "description": "The menu Language"
+    },
+    "homeMenu3detail": "  แนะนำขั้นตอน การขอทำสำเนาเอกสารจดหมายเหตุแห่งชาติแบบออนไลน์",
+    "@homeMenu3detail":{
+      "description": "The menu home Language"
+    },
+    "launcherMenu1": "หน้าแรก",
+    "@launcherMenu1":{
+      "description": "The luncher Language"
+    },
+    "launcherMenu2": "ค้นหา",
+    "@launcherMenu2":{
+      "description": "The luncher Language"
+    },
+    "launcherMenu3": "เข้าสู่ระบบ",
+    "@launcherMenu3":{
+      "description": "The luncher Language"
+    },
+    "launcherUser1": "หน้าแรก",
+    "@launcherUser1":{
+      "description": "The luncher for User home Language"
+    },
+    "launcherUser2": "ค้นหา",
+    "@launcherUser2":{
+      "description": "The luncher for User searcher Language"
+    },
+    "launcherUser3": "สั่งซื้อ",
+    "@launcherUser3":{
+      "description": "The luncher for User order Language"
+    },
+    "launcherUser4": "ข้อมูลผู้ใช้งาน",
+    "@launcherUser4":{
+      "description": "The luncher for User account Language"
+    },
+    "tabmenuforuser1": "หน้าหลัก",
+    "@tabmenuforuser1":{
+      "description": "The tab for User home Language"
+    },
+    "tabmenuforuser2": "สืบค้นเอกสาร",
+    "@tabmenuforuser2":{
+      "description": "The tab for User searcher Language"
+    },
+    "tabmenuforuser3": "รายการขอทำสำเนา",
+    "@tabmenuforuser3":{
+      "description": "The tab for User InBasketOrder Language"
+    },
+    "tabmenuforuser4": "ข้อมูลการขอทำสำเนา",
+    "@tabmenuforuser4":{
+      "description": "The tab for User Copy request information Language"
+    },
+    "tabmenuforuser5": "อยู่ระหว่างดำเนินการ",
+    "@tabmenuforuser5":{
+      "description": "The tab for User In process Language"
+    },
+    "tabmenuforuser6": "ดำเนินการเรียบร้อยแล้ว",
+    "@tabmenuforuser6":{
+      "description": "The tab for User Complete Language"
+    },
+    "tabmenuforuser7": "ประวัติการทำรายการ",
+    "@tabmenuforuser7":{
+      "description": "The tab for User Transaction history Language"
+    },
+    "tabmenuforuser8": "ข้อมูลสมาชิก",
+    "@tabmenuforuser8":{
+      "description": "The tab for User account Language"
+    },
+    "tabmenuforuser9": "เกี่ยวกับหอจดหมายเหตุแห่งชาติ",
+    "@tabmenuforuser9":{
+      "description": "The tab for User About the National Archives Language"
+    },
+    "tabmenuforuser10": "บริการขอทำสำเนาเอกสาร",
+    "@tabmenuforuser10":{
+      "description": "The tab for User Request service for copying documents Language"
+    },
+    "tabmenuforuser11": "ข้อมูลการติดต่อ",
+    "@tabmenuforuser11":{
+      "description": "The tab for User Contact information Language"
+    },
+    "tabmenuforuser12": "ออกจากระบบ",
+    "@tabmenuforuser12":{
+      "description": "The tab for User Log out Language"
+    },
+    "titlehome": "หน้าแรก",
+    "@titlehome":{
+      "description": "The title menu Language"
+    },
+    "titlesearcher": "ค้นหาเอกสารหอจดหมายเหตุ",
+    "@titlesearcher":{
+      "description": "The title menu Language"
+    },
+    "titleselecteditem": "รายการที่เลือก",
+    "@titleselecteditem":{
+      "description": "The title menu Language"
+    },
+    "titlenatinfo": "หอจดหมายเหตุส่วนภูมิภาค",
+    "@titlenatinfo":{
+      "description": "The title menu Language"
+    },
+    "titleaboutus": "เกี่ยวกับหอจดหมายเหตุแห่งชาติ",
+    "@titleaboutus":{
+      "description": "The title menu Language"
+    },
+    "titlepayment": "ข้อกำหนดและเงื่อนไขการบริการ",
+    "@titlepayment":{
+      "description": "The title menu Language"
+    },
+    "menusearcher1": "สืบค้น",
+    "@menusearcher1":{
+      "description": "The searcher menu Language"
+    },
+    "menusearcher2": "เลือกประเภทเอกสารจดหมายเหตุ",
+    "@menusearcher2":{
+      "description": "The searcher menu Language"
+    },
+    "menusearcher3": "กรุณากรอกคำค้นหาข้อมูล",
+    "@menusearcher3":{
+      "description": "The searcher menu Language"
+    },
+    "menusearcherdetail1": "**กรณีมีคำค้นหลายคำ ให้คั่นคำค้นด้วยตัวอักษร",
+    "@menusearcherdetail1":{
+      "description": "The searcher menu Language"
+    },
+    "menusearcherdetail2": "เช่น บุคคลสำคัญ,ประเทศไทย,รัตนโกสินทร์",
+    "@menusearcherdetail2":{
+      "description": "The searcher menu Language"
+    },
+    "menusearcherbutton": "ค้นหา",
+    "@menusearcherbutton":{
+      "description": "The searcher menu Language"
+    },
+    "menusearcherbuttondetail": "สืบค้นหาแบบละเอียด",
+    "@menusearcherbuttondetail":{
+      "description": "The searcher menu Language"
+    },
+    "menusearcherfillin1": "รหัสเอกสาร",
+    "@menusearcherfillin1":{
+      "description": "The searcher menu Language"
+    },
+    "menusearcherfillin2": "ชื่อเรื่อง",
+    "@menusearcherfillin2":{
+      "description": "The searcher menu Language"
+    },
+    "menusearcherfillin3": "หน่วยงานเจ้าของเอกสาร",
+    "@menusearcherfillin3":{
+      "description": "The searcher menu Language"
+    },
+    "menusearcherfillin4": "สาระสังเขป",
+    "@menusearcherfillin4":{
+      "description": "The searcher menu Language"
+    },
+    "menusearcherfillin5": "ชื่อดิจิทัลไฟล์",
+    "@menusearcherfillin5":{
+      "description": "The searcher menu Language"
+    },
+    "menusearcherfillin6": "รูปแบบปี",
+    "@menusearcherfillin6":{
+      "description": "The searcher menu Language"
+    },
+    "menusearcherfillin7": "กรุณาเลือก",
+    "@menusearcherfillin7":{
+      "description": "The searcher menu Language"
+    },
+    "menusearcherfillin8": "ตั้งแต่",
+    "@menusearcherfillin8":{
+      "description": "The searcher menu Language"
+    },
+    "menusearcherfillin9": "กรุณาเลือก",
+    "@menusearcherfillin9":{
+      "description": "The searcher menu Language"
+    },
+    "menusearcherfillin10": "ถึง",
+    "@menusearcherfillin10":{
+      "description": "The searcher menu Language"
+    },
+    "menusearcherfillin11": "กรุณาเลือก",
+    "@menusearcherfillin11":{
+      "description": "The searcher menu Language"
+    },
+    "menusearcherfillin12": "หน่วยงาน",
+    "@menusearcherfillin12":{
+      "description": "The searcher menu Language"
+    },
+    "menusearcherfillin13": "กรุณาเลือก",
+    "@menusearcherfillin13":{
+      "description": "The searcher menu Language"
+    },
+    "menusearcherfillin14": "ค้นหา",
+    "@menusearcherfillin14":{
+      "description": "The searcher menu Language"
+    },
+    "menusearchercount1": "จำนวนเอกสารในระบบ",
+    "@menusearchercount1":{
+      "description": "The searcher menu Language"
+    },
+    "menusearchercount2": "จดหมายเหตุประเภทลายลักษณ์อักษร :",
+    "@menusearchercount2":{
+      "description": "The searcher menu Language"
+    },
+    "menusearchercount3": "โสตทัศนจดหมายเหตุ-ภาพ :",
+    "@menusearchercount3":{
+      "description": "The searcher menu Language"
+    },
+    "menusearchercount4": "จดหมายเหตุประเภทแผนที่ แผนผัง :",
+    "@menusearchercount4":{
+      "description": "The searcher menu Language"
+    },
+    "menusearchercount5": "โสตทัศนจดหมายเหตุ-แถบบันทึกภาพ :",
+    "@menusearchercount5":{
+      "description": "The searcher menu Language"
+    },
+    "menusearchercount6": "โสตทัศนจดหมายเหตุ-แถบบันทึกเสียง :",
+    "@menusearchercount6":{
+      "description": "The searcher menu Language"
+    },
+    "getsearchingoptionand": "และ",
+    "@getSearchingOptionName":{
+      "description": "The searcher menu Language"
+    },
+    "getsearchingoptionor": "หรือ",
+    "@getsearchingoptionor":{
+      "description": "The searcher menu Language"
+    },
+    "menuorder1": "รายการที่เลือก",
+    "@menuorder1":{
+      "description": "The order menu Language"
+    },
+    "menuorder2": "รายการที่รอการอนุมัติ",
+    "@menuorder2":{
+      "description": "The order menu Language"
+    },
+    "menuorder3": "รายการที่พร้อมจ่ายเงิน",
+    "@menuorder3":{
+      "description": "The order menu Language"
+    },
+    "menuorder4": "รายการที่ชำระเงินเรียบร้อย",
+    "@menuorder4":{
+      "description": "The order menu Language"
+    },
+    "menuorder5": "รายการที่ดาวน์โหลดไฟล์เรียบร้อยแล้ว",
+    "@menuorder5":{
+      "description": "The order menu Language"
+    },
+    "dropdownlist1": "เอกสารจดหมายเหตุลายลักษณ์",
+    "@dropdownlist1":{
+      "description": "The dropdownlist1 searcher Language"
+    },
+    "dropdownlist2": "เอกสารโสตทัศน-ภาพ",
+    "@dropdownlist2":{
+      "description": "The dropdownlist1 searcher Language"
+    },
+    "dropdownlist3": "เอกสารโสตทัศน-แถบบันทึกภาพ",
+    "@dropdownlist3":{
+      "description": "The dropdownlist1 searcher Language"
+    },
+    "dropdownlist4": "เอกสารโสตทัศน-แถบบันทึกเสียง",
+    "@dropdownlist4":{
+      "description": "The dropdownlist1 searcher Language"
+    },
+    "dropdownlist5": "แผนที่ แผนผัง แบบแปลน",
+    "@dropdownlist5":{
+      "description": "The dropdownlist1 searcher Language"
+    },
+    "inforegional1": "หอจดหมายเหตุแห่งชาติเฉลิมพระเกียรติพระบาทสมเด็จพระเจ้าอยู่หัวภูมิพลอดุลยเดช",
+    "@inforegional1":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionaladd": "สถานที่ตั้ง",
+    "@inforegionaladd":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionaldetail1": "ถนนสายบางขันธ์ – คลองหลวง ตำบลคลองห้า อำเภอคลองหลวง จังหวัดปทุมธานี 12120",
+    "@inforegionaldetail1":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionalphone": "โทรศัพท์ :",
+    "@inforegionalphone":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionalfax": "โทรสาร :",
+    "@inforegionalfax":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionalmap": "แผนที่ :",
+    "@inforegionalmap":{
+      "description": "The Regional archives Language"
+    },
+    "inforegional2": "หอจดหมายเหตุแห่งชาติเฉลิมพระเกียรติสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ เชียงใหม่",
+    "@inforegional2":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionalarea": "พื้นที่รับผิดชอบ",
+    "@inforegionalarea":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionalareadetail1": "เชียงใหม่ เชียงราย ลำพูน และแม่ฮ่องสอน",
+    "@inforegionalareaetail1":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionaldetail2": "ถนนสุเทพ อำเภอเมือง จังหวัดเชียงใหม่ 50200",
+    "@inforegionaldetail2":{
+      "description": "The Regional archives Language"
+    },
+    "inforegional3": "หอจดหมายเหตุแห่งชาติเฉลิมพระเกียรติสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ ตรัง",
+    "@inforegional3":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionalareadetail3": "ตรัง กระบี่ พังงา ภูเก็ต และระนอง",
+    "@inforegionalareaetail3":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionaldetail3": "ถนนหนองยวน ตำบลทับเที่ยง อำเภอเมือง จังหวัดตรัง 92000",
+    "@inforegionaldetail3":{
+      "description": "The Regional archives Language"
+    },
+    "inforegional4": "หอจดหมายเหตุแห่งชาติเฉลิมพระเกียรติสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ ยะลา",
+    "@inforegional4":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionalareadetail4": "ปัตตานี ยะลา และนราธิวาส",
+    "@inforegionalareaetail4":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionaldetail4": "เลขที่ 3 ถนนเทศบาล 2 ตำบลสะเตง อำเภอเมืองยะลา จังหวัดยะลา 95000",
+    "@inforegionaldetail4":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionalemail": "อีเมล :",
+    "@inforegionalemail":{
+      "description": "The Regional archives Language"
+    },
+    "inforegional5": "หอจดหมายเหตุแห่งชาติเฉลิมพระเกียรติสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ สงขลา",
+    "@inforegional5":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionalareadetail5": "ชุมพร สุราษฎร์ธานี นครศรีธรรมราช พัทลุง สงขลา และสตูล",
+    "@inforegionalareaetail5":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionaldetail5": "ในบริเวณสวนสาธารณะเทศบาลนครหาดใหญ่ ถนนกาจนวนิช ตำบลคอหงส์ อำเภอหาดใหญ่ จังหวัดสงขลา 90110",
+    "@inforegionaldetail5":{
+      "description": "The Regional archives Language"
+    },
+    "inforegional6": "หอจดหมายเหตุแห่งชาติเฉลิมพระเกียรติสมเด็จพระบรมโอรสาธิราชฯ สยามมกุฎราชกุมาร พะเยา",
+    "@inforegional6":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionalareadetail6": "ลำปาง พะเยา น่าน แพร่ อุตรดิตถ์ สุโขทัย พิษณุโลก พิจิตร กำแพงเพชร และตาก",
+    "@inforegionalareaetail6":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionaldetail6": "บริเวณวัดพระธาตุจอมทอง ถนนซุปเปอร์ไฮเวย์ อำเภอเมือง จังหวัดพะเยา 56000",
+    "@inforegionaldetail6":{
+      "description": "The Regional archives Language"
+    },
+    "inforegional7": "หอจดหมายเหตุแห่งชาติเฉลิมพระเกียรติสมเด็จพระบรมโอรสาธิราชฯ สยามมกุฎราชกุมาร อุบลราชธานี",
+    "@inforegional7":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionalareadetail7": "ขอนแก่น มหาสารคาม เลย หนองคาย หนองบัวลำภู บึงกาฬ อุดรธานี ร้อยเอ็ด กาฬสินธุ์ สกลนคร นครพนม อุบลราชธานี มุกดาหาร ยโสธร ศรีสะเกษ อำนาจเจริญ นครราชสีมา ชัยภูมิ บุรีรัมย์ และสุรินทร์",
+    "@inforegionalareaetail7":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionaldetail7": "ถนนเลี่ยงเมือง ตำบลแจระแม อำเภอเมือง จังหวัดอุบลราชธานี 34000",
+    "@inforegionaldetail7":{
+      "description": "The Regional archives Language"
+    },
+    "inforegional8": "หอจดหมายเหตุแห่งชาติ จังหวัดสุพรรณบุรี",
+    "@inforegional8":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionalareadetail8": "ราชบุรี เพชรบุรี ประจวบคีรีขันธ์ สมุทรสาคร สมุทรสงคราม สุพรรณบุรี กาญจนบุรี นครปฐม อยุธยา นครนายก สระบุรี อ่างทอง สิงห์บุรี ลพบุรี ชัยนาท เพชรบูรณ์ นครสวรรค์ และอุทัยธานี",
+    "@inforegionalareaetail8":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionaldetail8": "ถนนสุพรรณบุรี – ชัยนาท อำเภอเมือง จังหวัดสุพรรณบุรี 72000",
+    "@inforegionaldetail8":{
+      "description": "The Regional archives Language"
+    },
+    "inforegional9": "หอจดหมายเหตุแห่งชาติ จันทบุรี",
+    "@inforegional9":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionalareadetail9": "จันทบุรี ตราด ระยอง ชลบุรี ฉะเชิงเทรา ปราจีนบุรี และสระแก้ว",
+    "@inforegionalareaetail9":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionaldetail9": "ศาลากลางเก่าจังหวัดจันทบุรี ถนนเลียบเนิน อำเภอเมือง จังหวัดจันทบุรี 22000",
+    "@inforegionaldetail9":{
+      "description": "The Regional archives Language"
+    },
+    "inforegional10": "หอจดหมายเหตุนายกรัฐมนตรี พลเอก เปรม ติณสูลานนท์",
+    "@inforegional10":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionalareadetail10": "หอจดหมายเหตุเฉพาะ",
+    "@inforegionalareaetail10":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionaldetail10": "ถนนราชดำเนิน ตำบลคลัง อำเภอเมือง จังหวัดนครศรีธรรมราช 80000",
+    "@inforegionaldetail10":{
+      "description": "The Regional archives Language"
+    },
+    "inforegional11": "หอเกียรติยศ ฯพณฯ บรรหาร ศิลปอาชา นายกรัฐมนตรี คนที่ ๒๑",
+    "@inforegional11":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionalareadetail11": "หน้าที่รวบรวมเก็บรักษาเอกสารรวมทั้งการจัดนิทรรศการ ประวัติผลงานและสิ่งของที่เนื่องในภารกิจของนายบรรหาร ศิลปอาชา อดีตนายกรัฐมนตรี คนที่ ๒๑",
+    "@inforegionalareaetail11":{
+      "description": "The Regional archives Language"
+    },
+    "inforegionaldetail11": "บริเวณศูนย์ราชการจังหวัดสุพรรณบุรี (ดอนย่างแย้) อำเภอเมืองสุพรรณบุรี จังหวัดสุพรรณบุรี 72000",
+    "@inforegionaldetail11":{
+      "description": "The Regional archives Language"
+    },
+    "headinforegional": "ติดต่อหอจดหมายเหตุส่วนภูมิภาค",
+    "@headinforegional":{
+      "description": "The Regional archives Language"
+    },
+    "menuloginpage": "เข้าสู่ระบบ",
+    "@menuloginpage":{
+      "description": "Menu for login Member"
+    },
+    "menuloginpages": "สมัครสมาชิก",
+    "@menuloginpages":{
+      "description": "Menu for login Member"
+    },
+    "menuloginuser": "ชื่อผู้ใช้งาน",
+    "@menuloginuser":{
+      "description": "Menu for login Member page"
+    },
+    "menuloginuserpassword": "รหัสผ่าน",
+    "@menuloginuserpassword":{
+      "description": "Menu for login Member page"
+    },
+    "menuloginforgotpassword": "ลืมชื่อผู้ใช้งาน/รหัสผ่าน",
+    "@menuloginfogetpassword":{
+      "description": "Menu for login Member page"
+    },
+    "menuloginusernoaccount": "ลงทะเบียนสำหรับผู้ค้นคว้าที่ยังไม่มีบัญชีผู้ใช้งาน หรือเข้าใช้งานผ่าน Facebook,Google",
+    "@menuloginusernoaccount":{
+      "description": "Menu for login Member page"
+    },
+    "menuregister": "ลงทะเบียน",
+    "@menuregister":{
+      "description": "Menu for register Member page"
+    },
+    "menuregisterpage": "เลือกประเภทการลงทะเบียน",
+    "@menuregisterpage":{
+      "description": "Menu for register Member page"
+    },
+    "menutitlelogin": "เข้าสู่ระบบ",
+    "@menutitlelogin":{
+      "description": "Menu for login page"
+    }
+    
+}
