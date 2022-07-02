@@ -40,10 +40,7 @@ class _LauncherState extends State<Launcher> {
       icon: const Icon(Icons.home),
       label: AppLocalizations.of(context).launcherMenu1,
     ),
-    // BottomNavigationBarItem(
-    //   icon: const Icon(Icons.search),
-    //   label: AppLocalizations.of(context).launcherMenu2,
-    // ),
+   
     BottomNavigationBarItem(
       icon: const Icon(Icons.person),
       label: AppLocalizations.of(context).launcherMenu3,
