@@ -16,35 +16,6 @@ class MainReportPage extends StatefulWidget {
 }
 
 class _MainReportPageState extends State<MainReportPage> {
-  // bool visibilityquantityofaskingtocopy = false;
-  // bool visibilityquantityofregistration = false;
-  // bool visibilityquantityofresearcher = false;
-  // bool visibilityquantityofusingarchivedocument = false;
-  // bool visibilitysummaryofarchivedata = false;
-  // bool visiblitysummarypriceofaskingtocopy = false;
-
-  // void _changed(bool visibility, String field) {
-  //   setState(() {
-  //     if (field == "askingtocopy") {
-  //       visibilityquantityofaskingtocopy = visibility;
-  //     }
-  //     if (field == "quantityofregistration") {
-  //       visibilityquantityofregistration = visibility;
-  //     }
-  //     if (field == "quantityofresearcher") {
-  //       visibilityquantityofresearcher = visibility;
-  //     }
-  //     if (field == "quantityofusingarchivedocument") {
-  //       visibilityquantityofusingarchivedocument = visibility;
-  //     }
-  //     if (field == "summaryofarchivedata") {
-  //       visibilitysummaryofarchivedata = visibility;
-  //     }
-  //     if (field == "summarypriceofaskingtocopy") {
-  //       visiblitysummarypriceofaskingtocopy = visibility;
-  //     }
-  //   });
-  // }
 
   @override
   Widget build(BuildContext context) {
