@@ -6,7 +6,7 @@ void main() async {
   EmployeeProfileService employeeProfileService =
       EmployeeProfileService(WebAPI_Config.mainWebAPIURL);
 
-  String username = "pitsamai_8";
+  String username = "";
   var employeeProfile =
       await employeeProfileService.getEmployeeProfile(username);
 }
