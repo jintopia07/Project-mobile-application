@@ -5,7 +5,7 @@ import 'package:nat/src/MemberProfile/Services/MemberProfileService.dart';
 void main() async {
   MemberProfileService memberProfileService =
       MemberProfileService(WebAPI_Config.mainWebAPIURL);
-  String cardID = "1103700775315";
+  String cardID = "";
   var memberPhoto = await memberProfileService.getMemberPhoto(cardID);
   var memberProfile = await memberProfileService.getMemberProfile(cardID);
   var testValue = memberProfile.email;
