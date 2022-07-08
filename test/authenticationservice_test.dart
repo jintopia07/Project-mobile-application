@@ -9,8 +9,8 @@ void main() async {
   AuthenticationService authenticationService =
       AuthenticationService(WebAPI_Config.mainWebAPIURL);
 
-  String username = "1103700775315";
-  String password = "5315";
+  String username = "";
+  String password = "";
   AuthenticatedUser authenticatedUser =
       await authenticationService.authen(username, password);
 
