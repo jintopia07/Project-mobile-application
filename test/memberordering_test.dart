@@ -3,7 +3,7 @@ import 'package:nat/Config/WebAPI_Config.dart';
 import 'package:nat/src/MemberOrder/Services/MemberOrderingService.dart';
 
 void main() async {
-  String cardID = "1103700775315";
+  String cardID = "";
   MemberOrderingService memberOrderingService =
       MemberOrderingService(WebAPI_Config.mainWebAPIURL, cardID);
 
