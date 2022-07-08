@@ -8,7 +8,7 @@ void main() async {
       MemberRegisterService(WebAPI_Config.mainWebAPIURL);
 
   ShortMemberRegisterRequest shortMemberRegisterRequest = ShortMemberRegisterRequest();
-  shortMemberRegisterRequest.cardID = "1103700775315";
+  shortMemberRegisterRequest.cardID = "";
 
   var result = await memberRegisterService
       .postShortRegisterMember(shortMemberRegisterRequest);
